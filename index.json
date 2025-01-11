@@ -1,0 +1,32 @@
+{
+   "headline": "UaSerials",
+   "style": "overlay",
+   "transparent": 2,
+   "background": "assets/wallpaper.jpg",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "Categories"
+      },
+      {
+         "icon": "movie",
+         "label": "Movies",
+         "data": "movies/list.json"
+      },
+      {
+         "icon": "subscriptions",
+         "label": "Series",
+         "data": "series/list.json"
+      },
+      {
+         "icon": "sentiment-satisfied-alt",
+         "label": "Kids",
+         "data": "kids/list.json"
+      },
+      {
+         "icon": "search",
+         "label": "Search",
+         "data": "search/search.json"
+      }
+   ]
+}
