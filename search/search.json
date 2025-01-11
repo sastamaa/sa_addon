@@ -1,0 +1,7 @@
+{
+   "type": "input",
+   "headline": "Search",
+   "description": "Search for movies, series, or kids content",
+   "placeholder": "Type to search...",
+   "action": "api/search.php?query={query}"
+}
