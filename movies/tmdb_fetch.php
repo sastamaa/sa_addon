@@ -1,6 +1,6 @@
 <?php
 // Your TMDb API Key
-$apiKey = 'your_tmdb_api_key';
+$apiKey = '28797e7035babad606ddbc1642d2ec8b';
 
 // Get the TMDb ID from the request
 $tmdbId = $_GET['tmdb_id'] ?? null;
