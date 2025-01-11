@@ -1,0 +1,17 @@
+[
+   {
+      "tmdb_id": "77169",
+      "streaming_url": "https://example.com/series-a",
+      "seasons": {
+         "1": "https://example.com/series-a/season-1",
+         "2": "https://example.com/series-a/season-2"
+      }
+   },
+   {
+      "tmdb_id": "1399",
+      "streaming_url": "https://example.com/series-b",
+      "seasons": {
+         "1": "https://example.com/series-b/season-1"
+      }
+   }
+]
