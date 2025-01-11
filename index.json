@@ -11,22 +11,22 @@
       {
          "icon": "movie",
          "label": "Movies",
-         "data": "movies/list.json"
+         "data": "https://sastamaa.github.io/sa_addon/movies/list.json"
       },
       {
          "icon": "subscriptions",
          "label": "Series",
-         "data": "series/list.json"
+         "data": "https://sastamaa.github.io/sa_addon/series/list.json"
       },
       {
          "icon": "sentiment-satisfied-alt",
          "label": "Kids",
-         "data": "kids/list.json"
+         "data": "https://sastamaa.github.io/sa_addon/kids/list.json"
       },
       {
          "icon": "search",
          "label": "Search",
-         "data": "search/search.json"
+         "data": "https://sastamaa.github.io/sa_addon/search/search.json"
       }
    ]
 }
