@@ -1,6 +1,6 @@
 <?php
 // TMDb API Key
-$apiKey = 'your_tmdb_api_key';
+$apiKey = '28797e7035babad606ddbc1642d2ec8b';
 
 // Get series TMDb ID and optional season number
 $tmdbId = $_GET['tmdb_id'] ?? null;
