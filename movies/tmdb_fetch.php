@@ -1,4 +1,7 @@
 <?php
+
+error_reporting(E_ALL & ~E_NOTICE & ~E_WARNING);
+header('Content-Type: application/json');
 // TMDb API Key
 $api_key = "28797e7035babad606ddbc1642d2ec8b";
 
