@@ -11,7 +11,7 @@
       {
          "icon": "movie",
          "label": "Movies",
-         "data": "http://saaddon.42web.io/tmdb_fetch.php"
+         "data": "https://sastamaa.github.io/sa_addon/movies/tmdb_fetch.php"
       },
       {
          "icon": "subscriptions",
