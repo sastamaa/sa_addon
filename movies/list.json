@@ -1,7 +1,13 @@
 {
-    "type": "list",
-    "headline": "Movies",
-    "entries": [
+   "type": "list",
+   "headline": "Kids",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
         {
             "title": "Hotel Transylvania:Transformania",
             "image": "https://image.tmdb.org/t/p/w500/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
