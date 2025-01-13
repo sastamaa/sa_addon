@@ -1,10 +1,18 @@
-[
-   {
-      "tmdb_id": "585083",
-      "streaming_url": "https://s1.hdvbua.pro/media1/content/stream/films/hotel_transylvania_transformania_2022_webrip_1080p_83600/hls/1080/index.m3u8"
-   },
-   {
-      "tmdb_id": "616747",
-      "streaming_url": "https://s1.hdvbua.pro/media1/content/stream/films/haunted_mansion_2023_webdl_1080p_91673/hls/1080/index.m3u8"
-   }
-]
+{
+    "type": "list",
+    "headline": "Movies",
+    "entries": [
+        {
+            "title": "Hotel Transylvania: Transformania",
+            "image": "https://image.tmdb.org/t/p/w500/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
+            "description": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire...",
+            "data": "https://s1.hdvbua.pro/media1/content/stream/films/hotel_transylvania_transformania_2022_webrip_1080p_83600/hls/1080/index.m3u8"
+        },
+        {
+            "title": "Haunted Mansion",
+            "image": "https://image.tmdb.org/t/p/w500/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
+            "description": "A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.",
+            "data": "https://s1.hdvbua.pro/media1/content/stream/films/haunted_mansion_2023_webdl_1080p_91673/hls/1080/index.m3u8"
+        }
+    ]
+}
