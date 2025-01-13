@@ -11,7 +11,7 @@
       {
          "icon": "movie",
          "label": "Movies",
-         "data": "https://stremio-op29.onrender.com"
+         "data": "https://stremio-op29.onrender.com/index.php"
       },
       {
          "icon": "subscriptions",
