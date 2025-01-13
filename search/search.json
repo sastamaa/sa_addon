@@ -3,5 +3,5 @@
    "headline": "Search",
    "description": "Search for movies, series, or kids content",
    "placeholder": "Type to search...",
-   "action": "api/search.php?query={query}"
+   "action": "https://stremio-op29.onrender.com/index.php?query={query}"
 }
