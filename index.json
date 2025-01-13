@@ -11,7 +11,7 @@
       {
          "icon": "movie",
          "label": "Movies",
-         "data": "https://stremio-op29.onrender.com/index.php"
+         "data": "https://sastamaa.github.io/sa_addon/movies/list.json"
       },
       {
          "icon": "subscriptions",
